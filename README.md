@@ -8,4 +8,6 @@ this is a QT project that connection server and client by tcp/ip.
 
 后续可以做成通过一个软件通过网络连接发送参数（参数可以当做标志位）进而控制另一个软件的运行，或者类似参数下载的功能。
 
+![server picture](https://github.com/herrkun/QT-Tcp-connection-project/blob/master/server.png)  
 
+![server picture](https://github.com/herrkun/QT-Tcp-connection-project/blob/master/client.png)
